@@ -1,11 +1,14 @@
+@import url("styles/header.css");
+
 ;:root {
      --cor-de-fundo: #EBECEE;
-}
 
+}
 body {
     banckground-color: var(--cor-de-fundo);
+    --branco: #FFFFFF;
 }
 
 h1 {
-    banckground-color: white;
+    banckground-color:  white;;
 }
